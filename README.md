@@ -24,13 +24,13 @@ Tone Model ではないが、リグに対して掛けられるエフェクト。
   
 |No|Slot|FX|
 |--|--|--|
-|1|Noise Gate||
-|2|Compressor||
+|1|Noise Gate|Threshold/Release/Depth|
+|2|Compressor|Threshold/Gain/Attack|
 |3|Modulation|Chorus,Tremolo,Phaser,Flanger,Rotary|
 |4|AMP|Tone Model|
 |5|CAB|Tone Model,VIR,IR|
 |6|Delay|Digital,Tape|
-|7|Reverb||
+|7|Reverb|Spring1,Spring2,Spring3,Spring4,Room,Plate|
 
 ## 4.用語
 |No|用語|意味|
