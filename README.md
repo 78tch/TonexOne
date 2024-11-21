@@ -18,6 +18,18 @@
 |4|AMP（アンプ）||
 |5|AMP + CAB（アンプ + キャビネット）||
 
+## 3.Tonex FX
+Tone Model ではないが、リグに対して掛けられるエフェクト。  
+順序は固定で入れ替えられない。  
+  
+|No|Model|memo|
+|--|--|--|
+|1|Noise Gate||
+|2|Compressor||
+|3|Modulation|Chorus,Tremolo,Phaser,Flanger,Rotary|
+|4|Delay|Digital,Tape|
+|5|Reverb||
+
 ## 3.Recovery
 1. Tonex One のフットスイッチを押下しながら、USBケーブルでMacと接続する。ALTランプが青く点く。
 2. Tonex One を立ち上げ、Librarianメニューから、歯車マークをクリックしてRecoveryをクリック
