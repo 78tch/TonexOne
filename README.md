@@ -22,13 +22,15 @@
 Tone Model ではないが、リグに対して掛けられるエフェクト。  
 順序は固定で入れ替えられない。  
   
-|No|Model|memo|
+|No|Slot|FX|
 |--|--|--|
 |1|Noise Gate||
 |2|Compressor||
 |3|Modulation|Chorus,Tremolo,Phaser,Flanger,Rotary|
-|4|Delay|Digital,Tape|
-|5|Reverb||
+|4|AMP|Tone Model|
+|5|CAB|Tone Model,VIR,IR|
+|6|Delay|Digital,Tape|
+|7|Reverb||
 
 ## 3.Recovery
 1. Tonex One のフットスイッチを押下しながら、USBケーブルでMacと接続する。ALTランプが青く点く。
