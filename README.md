@@ -18,6 +18,9 @@
 |4|AMP（アンプ）||
 |5|AMP + CAB（アンプ + キャビネット）||
 
+公式のTone Model 一覧表
+https://g1.ikmultimedia.com/html/tonex/TONEX_Premium_Tone_Models.pdf
+
 ## 3.Tonex FX
 Tone Model ではないが、リグに対して掛けられるエフェクト。  
 順序は固定で入れ替えられない。  
